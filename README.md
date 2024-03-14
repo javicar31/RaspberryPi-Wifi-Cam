@@ -1,5 +1,5 @@
-# RaspberryPi-Wifi-Cam
-Raspberry Pi Wifi camera 
+# RaspberryPi Wifi Camera
+ 
 Local Network streaming using RaspberryPi 5 and Camera Module 3
 
 STEP 1: Install Lite or desktop version of the latest Pi OS
