@@ -2,7 +2,7 @@
 
 sudo apt update
 sudo apt install python3-pip
+python3 -m venv ~/YOUR_VIRTUAL_ENVIROMENT_NAME        //if venv not installed: sudo apt install python3-venv
+source ~/YOUR_VIRTUAL_ENVIROMENT_NAME/bin/activate
 pip3 install adafruit-circuitpython-servokit
 sudo raspi-config //enable IC2
-python3 -m venv ~/YOUR_VIRTUAL_ENVIROMENT_NAME //if venv not installed: sudo apt install python3-venv
-source ~/YOUR_VIRTUAL_ENVIROMENT_NAME/bin/activate
